@@ -2,7 +2,7 @@ const fileCache = require('think-cache-file');
 const nunjucks = require('think-view-nunjucks');
 const fileSession = require('think-session-file');
 const mysql = require('think-model-mysql');
-const {Console, File, DateFile} = require('think-logger3');
+const { Console, File, DateFile } = require('think-logger3');
 const path = require('path');
 const isDev = think.env === 'development';
 
@@ -28,7 +28,7 @@ exports.cache = {
  * @type {Object}
  */
 exports.model = {
-  type: 'mysql',
+  type: 'mongo',
   common: {
     logConnect: isDev,
     logSql: isDev,
@@ -44,6 +44,13 @@ exports.model = {
     user: 'root',
     password: 'Boco123@182',
     dateStrings: true
+  },
+  mongo: {
+    host: '10.10.1.197',
+    port: 27017,
+    user: '',
+    password: '',
+    database: 'stock' // 数据库名称
   }
 };
 
