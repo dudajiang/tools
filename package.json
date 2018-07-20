@@ -7,7 +7,8 @@
     "start": "node development.js",
     "test": "THINK_UNIT_TEST=1 nyc ava test/ && nyc report --reporter=html",
     "lint": "eslint src/",
-    "lint-fix": "eslint --fix src/"
+    "lint-fix": "eslint --fix src/",
+    "rundb": "node development.js zentao/index"
   },
   "dependencies": {
     "think-cache": "^1.0.0",
