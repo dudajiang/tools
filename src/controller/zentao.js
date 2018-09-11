@@ -7,7 +7,7 @@ module.exports = class extends Base {
     let model = think.mongo('test');
     let data = await model.limit(10).select();
     console.log(JSON.stringify(data));
-    console.log('it is ok!');
+    console.log('it is ok!！！');
   }
 
 };
