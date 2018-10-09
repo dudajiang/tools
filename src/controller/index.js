@@ -66,7 +66,7 @@ module.exports = class extends Base {
 
   /**
    * 一旦发现从api中获得的group和groupsproduct.json中的有不同，则提示出不同点，并将不同点导出成group.xlsx
-    手工对groupupdate.xlsxj进行修改，并另外执行命令updateGroupsAction，生成新的groupsproduct.json使用
+    手工对groupupdate.xlsx进行修改，并另外执行命令updateGroupsAction，生成新的groupsproduct.json使用
     第3-1步：检查group是否有变化，如果有则执行3-2，如果没有变化，跳过
    */
   async checkGroupsAction() {

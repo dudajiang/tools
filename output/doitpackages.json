@@ -363,49 +363,6 @@
         "existsGitProject": false
     },
     {
-        "id": "irms.dps/product/product/dps",
-        "name": "dps",
-        "type": "war",
-        "path_with_namespace": "irms.dps/product",
-        "git_id": 193,
-        "git_name": "product",
-        "git_web_url": "https://119.18.198.5:8443/irms.dps/product",
-        "default_product": "采集比对",
-        "package_name": "dps",
-        "image_name": "dps",
-        "package_directory": "product/dps",
-        "jenkins_name": "irms-jenkins-01",
-        "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
-        "module": "[]",
-        "description": "采集比对服务部署包",
-        "container": "tomcat:7.0.72-jdk1-6u45",
-        "auto_test_file": "",
-        "login_name": null,
-        "login_password": null,
-        "auto_test_gitId": null,
-        "pps": [
-            {
-                "id": 1179,
-                "package_id": "irms.dps/product/product/dps",
-                "product": "采集比对",
-                "project": "广东移动"
-            },
-            {
-                "id": 1178,
-                "package_id": "irms.dps/product/product/dps",
-                "product": "采集比对",
-                "project": "黑龙江移动"
-            },
-            {
-                "id": 1180,
-                "package_id": "irms.dps/product/product/dps",
-                "product": "采集比对",
-                "project": "广西移动"
-            }
-        ],
-        "existsGitProject": false
-    },
-    {
         "id": "irms.dm/web/web.es.convert/product/webesconvert",
         "name": "webesconvert",
         "type": "war",
@@ -698,7 +655,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": null,
+        "description": "资源平台-吉林",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -706,10 +663,16 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1698,
+                "id": 1807,
                 "package_id": "irms.rms/web/webrms.jilin/product/webrms",
                 "product": "资源平台",
                 "project": "吉林移动"
+            },
+            {
+                "id": 1808,
+                "package_id": "irms.rms/web/webrms.jilin/product/webrms",
+                "product": "资源平台",
+                "project": "公共"
             }
         ],
         "existsGitProject": false
@@ -723,8 +686,8 @@
         "git_name": "server.rofh.interface",
         "git_web_url": "https://119.18.198.5:8443/irms.rofh/server/server.rofh.interface",
         "default_product": "家客资源",
-        "package_name": "rofhinterface",
-        "image_name": "rofhinterface",
+        "package_name": "serverrofhinterface",
+        "image_name": "serverrofhinterface",
         "package_directory": "product/serverrofhinterface",
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
@@ -737,19 +700,19 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1557,
+                "id": 1900,
                 "package_id": "irms.rofh/server/server.rofh.interface/product/serverrofhinterface",
                 "product": "家客资源",
                 "project": "陕西移动"
             },
             {
-                "id": 1556,
+                "id": 1899,
                 "package_id": "irms.rofh/server/server.rofh.interface/product/serverrofhinterface",
                 "product": "家客资源",
                 "project": "西藏移动"
             },
             {
-                "id": 1555,
+                "id": 1898,
                 "package_id": "irms.rofh/server/server.rofh.interface/product/serverrofhinterface",
                 "product": "家客资源",
                 "project": "北京广电"
@@ -955,21 +918,21 @@
         "existsGitProject": false
     },
     {
-        "id": "irms.tnms/server/eventcm/product/eventcm",
-        "name": "eventcm",
+        "id": "irms.dps/dps/product/dps",
+        "name": "dps",
         "type": "war",
-        "path_with_namespace": "irms.tnms/server/eventcm",
-        "git_id": 867,
-        "git_name": "eventcm",
-        "git_web_url": "https://119.18.198.5:8443/irms.tnms/server/eventcm",
-        "default_product": "传输告警",
-        "package_name": "eventcm",
-        "image_name": "eventcm",
-        "package_directory": "product/eventcm",
+        "path_with_namespace": "irms.dps/dps",
+        "git_id": 569,
+        "git_name": "dps",
+        "git_web_url": "https://119.18.198.5:8443/irms.dps/dps",
+        "default_product": "资源平台",
+        "package_name": "dps",
+        "image_name": "dps",
+        "package_directory": "product/dps",
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
-        "module": "[{\"id\":\"irms.tnms/server/eventcm/eventcm-H\",\"name\":\"eventcm-H\",\"package_directory\":\"jar/eventcm-H\",\"pom\":\"eventcm-H/pom.xml\"}]",
-        "description": "传输采集",
+        "module": "[]",
+        "description": null,
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -977,10 +940,64 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1753,
-                "package_id": "irms.tnms/server/eventcm/product/eventcm",
-                "product": "传输告警",
+                "id": 1871,
+                "package_id": "irms.dps/dps/product/dps",
+                "product": "资源平台",
+                "project": "黑龙江移动"
+            },
+            {
+                "id": 1870,
+                "package_id": "irms.dps/dps/product/dps",
+                "product": "资源平台",
                 "project": "广东移动"
+            },
+            {
+                "id": 1879,
+                "package_id": "irms.dps/dps/product/dps",
+                "product": "资源平台",
+                "project": "西藏移动"
+            },
+            {
+                "id": 1877,
+                "package_id": "irms.dps/dps/product/dps",
+                "product": "资源平台",
+                "project": "陕西移动"
+            },
+            {
+                "id": 1878,
+                "package_id": "irms.dps/dps/product/dps",
+                "product": "资源平台",
+                "project": "海南移动"
+            },
+            {
+                "id": 1876,
+                "package_id": "irms.dps/dps/product/dps",
+                "product": "资源平台",
+                "project": "内蒙移动"
+            },
+            {
+                "id": 1875,
+                "package_id": "irms.dps/dps/product/dps",
+                "product": "资源平台",
+                "project": "吉林移动"
+            },
+            {
+                "id": 1874,
+                "package_id": "irms.dps/dps/product/dps",
+                "product": "资源平台",
+                "project": "福建移动"
+            },
+            {
+                "id": 1873,
+                "package_id": "irms.dps/dps/product/dps",
+                "product": "资源平台",
+                "project": "湖北移动"
+            },
+            {
+                "id": 1872,
+                "package_id": "irms.dps/dps/product/dps",
+                "product": "资源平台",
+                "project": "广西移动"
             }
         ],
         "existsGitProject": false
@@ -993,31 +1010,79 @@
         "git_id": 568,
         "git_name": "webdps",
         "git_web_url": "https://119.18.198.5:8443/irms.dps/webdps",
-        "default_product": "采集比对",
+        "default_product": "资源平台",
         "package_name": "webdps",
         "image_name": "webdps",
         "package_directory": "product/webdps",
         "jenkins_name": "irms-jenkins-01",
-        "jenkins_url": "http://yangyuanwei:123456@119.18.198.5:19900/jenkins/",
+        "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": "采集比对web程序",
-        "container": null,
-        "auto_test_file": "",
+        "description": null,
+        "container": "tomcat:7.0.72-jdk1-6u45",
+        "auto_test_file": null,
         "login_name": null,
         "login_password": null,
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 159,
+                "id": 1881,
                 "package_id": "irms.dps/webdps/product/webdps",
-                "product": "采集比对",
+                "product": "资源平台",
+                "project": "广东移动"
+            },
+            {
+                "id": 1880,
+                "package_id": "irms.dps/webdps/product/webdps",
+                "product": "资源平台",
                 "project": "黑龙江移动"
             },
             {
-                "id": 160,
+                "id": 1883,
                 "package_id": "irms.dps/webdps/product/webdps",
-                "product": "采集比对",
-                "project": "广东移动"
+                "product": "资源平台",
+                "project": "湖北移动"
+            },
+            {
+                "id": 1882,
+                "package_id": "irms.dps/webdps/product/webdps",
+                "product": "资源平台",
+                "project": "广西移动"
+            },
+            {
+                "id": 1884,
+                "package_id": "irms.dps/webdps/product/webdps",
+                "product": "资源平台",
+                "project": "福建移动"
+            },
+            {
+                "id": 1885,
+                "package_id": "irms.dps/webdps/product/webdps",
+                "product": "资源平台",
+                "project": "吉林移动"
+            },
+            {
+                "id": 1886,
+                "package_id": "irms.dps/webdps/product/webdps",
+                "product": "资源平台",
+                "project": "内蒙移动"
+            },
+            {
+                "id": 1887,
+                "package_id": "irms.dps/webdps/product/webdps",
+                "product": "资源平台",
+                "project": "陕西移动"
+            },
+            {
+                "id": 1888,
+                "package_id": "irms.dps/webdps/product/webdps",
+                "product": "资源平台",
+                "project": "海南移动"
+            },
+            {
+                "id": 1889,
+                "package_id": "irms.dps/webdps/product/webdps",
+                "product": "资源平台",
+                "project": "西藏移动"
             }
         ],
         "existsGitProject": false
@@ -1329,70 +1394,27 @@
         "existsGitProject": false
     },
     {
-        "id": "irms.rms/web.sysmanage/product/websysmanage",
+        "id": "irms.rms/web/websysmanage/product/websysmanage",
         "name": "websysmanage",
         "type": "war",
-        "path_with_namespace": "irms.rms/web.sysmanage",
+        "path_with_namespace": "irms.rms/web/websysmanage",
         "git_id": 326,
-        "git_name": "web.sysmanage",
-        "git_web_url": "https://119.18.198.5:8443/irms.rms/web.sysmanage",
+        "git_name": "websysmanage",
+        "git_web_url": "https://119.18.198.5:8443/irms.rms/web/websysmanage",
         "default_product": "资源平台",
         "package_name": "websysmanage",
         "image_name": "websysmanage",
         "package_directory": "product/websysmanage",
         "jenkins_name": "irms-jenkins-01",
-        "jenkins_url": "http://yangyuanwei:123456@119.18.198.5:19900/jenkins/",
-        "module": "[{\"id\":\"irms.rms/web.sysmanage/irms.app.sysmanage\",\"name\":\"irms.app.sysmanage\",\"package_directory\":\"jar/irms.app.sysmanage\",\"pom\":\"irms.app.sysmanage/pom.xml\"}]",
-        "description": "综合资源用户角色权限管理模块",
+        "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
+        "module": "[]",
+        "description": "综资权限管理模块",
         "container": "tomcat:7.0.72-jdk1-6u45",
-        "auto_test_file": "",
+        "auto_test_file": null,
         "login_name": null,
         "login_password": null,
         "auto_test_gitId": null,
-        "pps": [
-            {
-                "id": 1692,
-                "package_id": "irms.rms/web.sysmanage/product/websysmanage",
-                "product": "资源平台",
-                "project": "广东移动"
-            },
-            {
-                "id": 1691,
-                "package_id": "irms.rms/web.sysmanage/product/websysmanage",
-                "product": "资源平台",
-                "project": "湖北移动"
-            },
-            {
-                "id": 1690,
-                "package_id": "irms.rms/web.sysmanage/product/websysmanage",
-                "product": "资源平台",
-                "project": "广西移动"
-            },
-            {
-                "id": 1689,
-                "package_id": "irms.rms/web.sysmanage/product/websysmanage",
-                "product": "资源平台",
-                "project": "黑龙江移动"
-            },
-            {
-                "id": 1688,
-                "package_id": "irms.rms/web.sysmanage/product/websysmanage",
-                "product": "资源平台",
-                "project": "吉林移动"
-            },
-            {
-                "id": 1687,
-                "package_id": "irms.rms/web.sysmanage/product/websysmanage",
-                "product": "资源平台",
-                "project": "西藏移动"
-            },
-            {
-                "id": 1686,
-                "package_id": "irms.rms/web.sysmanage/product/websysmanage",
-                "product": "资源平台",
-                "project": "河南移动"
-            }
-        ],
+        "pps": [],
         "existsGitProject": false
     },
     {
@@ -1494,37 +1516,6 @@
         "existsGitProject": false
     },
     {
-        "id": "irms.rms/web.platform/product/webrms",
-        "name": "webrms",
-        "type": "war",
-        "path_with_namespace": "irms.rms/web.platform",
-        "git_id": 399,
-        "git_name": "web.platform",
-        "git_web_url": "https://119.18.198.5:8443/irms.rms/web.platform",
-        "default_product": "资源平台",
-        "package_name": "webrms",
-        "image_name": "webrms-heilongjiang",
-        "package_directory": "product/webrms",
-        "jenkins_name": "irms-jenkins-01",
-        "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
-        "module": "[]",
-        "description": "资源平台黑龙江项目",
-        "container": "tomcat:7.0.72-jdk1-6u45",
-        "auto_test_file": "182.18.57.5:10022/irms.test/autotest.git",
-        "login_name": "admin",
-        "login_password": "111111",
-        "auto_test_gitId": "debd91a7-d4e3-49c1-90cb-e60ea1493a24",
-        "pps": [
-            {
-                "id": 1699,
-                "package_id": "irms.rms/web.platform/product/webrms",
-                "product": "资源平台",
-                "project": "黑龙江移动"
-            }
-        ],
-        "existsGitProject": false
-    },
-    {
         "id": "irms.rofh/web/web.rms.address/product/webaddress",
         "name": "webaddress",
         "type": "war",
@@ -1539,7 +1530,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": "标准地址存量功能-内蒙",
+        "description": "标准地址存量功能",
         "container": "tomcat:7.0.72-jdk-8u111",
         "auto_test_file": null,
         "login_name": null,
@@ -1547,7 +1538,19 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1628,
+                "id": 1906,
+                "package_id": "irms.rofh/web/web.rms.address/product/webaddress",
+                "product": "家客资源",
+                "project": "陕西移动"
+            },
+            {
+                "id": 1905,
+                "package_id": "irms.rofh/web/web.rms.address/product/webaddress",
+                "product": "家客资源",
+                "project": "湖北移动"
+            },
+            {
+                "id": 1904,
                 "package_id": "irms.rofh/web/web.rms.address/product/webaddress",
                 "product": "家客资源",
                 "project": "内蒙移动"
@@ -1676,10 +1679,16 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1492,
+                "id": 1890,
                 "package_id": "irms.rofh/web/web.pon.hubei/product/webpon",
                 "product": "家客资源",
                 "project": "湖北移动"
+            },
+            {
+                "id": 1891,
+                "package_id": "irms.rofh/web/web.pon.hubei/product/webpon",
+                "product": "家客资源",
+                "project": "北京广电"
             }
         ],
         "existsGitProject": false
@@ -1870,7 +1879,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": null,
+        "description": "资源平台-内蒙",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -1878,10 +1887,16 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1700,
+                "id": 1809,
                 "package_id": "irms.rms/web/webrms.neimeng/product/webrms",
                 "product": "资源平台",
                 "project": "内蒙移动"
+            },
+            {
+                "id": 1810,
+                "package_id": "irms.rms/web/webrms.neimeng/product/webrms",
+                "product": "资源平台",
+                "project": "公共"
             }
         ],
         "existsGitProject": false
@@ -1901,7 +1916,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": null,
+        "description": "资源平台-陕西",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -1909,10 +1924,16 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1701,
+                "id": 1811,
                 "package_id": "irms.rms/web/webrms.shanxi/product/webrms",
                 "product": "资源平台",
                 "project": "陕西移动"
+            },
+            {
+                "id": 1812,
+                "package_id": "irms.rms/web/webrms.shanxi/product/webrms",
+                "product": "资源平台",
+                "project": "公共"
             }
         ],
         "existsGitProject": false
@@ -2161,37 +2182,6 @@
                 "package_id": "irms.sf/web.sf.shanxi/product/websf",
                 "product": "集客开通",
                 "project": "陕西移动"
-            }
-        ],
-        "existsGitProject": false
-    },
-    {
-        "id": "irms.tnms/server/analysis/product/analysis",
-        "name": "analysis",
-        "type": "war",
-        "path_with_namespace": "irms.tnms/server/analysis",
-        "git_id": 863,
-        "git_name": "analysis",
-        "git_web_url": "https://119.18.198.5:8443/irms.tnms/server/analysis",
-        "default_product": "传输告警",
-        "package_name": "analysis",
-        "image_name": "analysis",
-        "package_directory": "product/analysis",
-        "jenkins_name": "irms-jenkins-01",
-        "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
-        "module": "[{\"id\":\"irms.tnms/server/analysis/analysis-H\",\"name\":\"analysis-H\",\"package_directory\":\"jar/analysis-H\",\"pom\":\"analysis-H/pom.xml\"}]",
-        "description": "PTN同路由分析",
-        "container": "tomcat:7.0.72-jdk1-6u45",
-        "auto_test_file": null,
-        "login_name": null,
-        "login_password": null,
-        "auto_test_gitId": null,
-        "pps": [
-            {
-                "id": 1773,
-                "package_id": "irms.tnms/server/analysis/product/analysis",
-                "product": "传输告警",
-                "project": "湖北移动"
             }
         ],
         "existsGitProject": false
@@ -2462,7 +2452,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": null,
+        "description": "资源平台-福建",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -2470,10 +2460,16 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1702,
+                "id": 1813,
                 "package_id": "irms.rms/web/webrms.fujian/product/webrms",
                 "product": "资源平台",
                 "project": "福建移动"
+            },
+            {
+                "id": 1814,
+                "package_id": "irms.rms/web/webrms.fujian/product/webrms",
+                "product": "资源平台",
+                "project": "公共"
             }
         ],
         "existsGitProject": false
@@ -2493,7 +2489,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": null,
+        "description": "资源平台-广东",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -2501,10 +2497,16 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1703,
+                "id": 1799,
                 "package_id": "irms.rms/web/webrms.guangdong/product/webrms",
                 "product": "资源平台",
                 "project": "广东移动"
+            },
+            {
+                "id": 1800,
+                "package_id": "irms.rms/web/webrms.guangdong/product/webrms",
+                "product": "资源平台",
+                "project": "公共"
             }
         ],
         "existsGitProject": false
@@ -2641,7 +2643,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": null,
+        "description": "资源平台-西藏",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -2649,10 +2651,16 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1704,
+                "id": 1801,
                 "package_id": "irms.rms/web/webrms.xizang/product/webrms",
                 "product": "资源平台",
                 "project": "西藏移动"
+            },
+            {
+                "id": 1802,
+                "package_id": "irms.rms/web/webrms.xizang/product/webrms",
+                "product": "资源平台",
+                "project": "公共"
             }
         ],
         "existsGitProject": false
@@ -2911,37 +2919,6 @@
             {
                 "id": 1756,
                 "package_id": "irms.tnms/server/collectcm/product/collectcm",
-                "product": "传输告警",
-                "project": "广东移动"
-            }
-        ],
-        "existsGitProject": false
-    },
-    {
-        "id": "irms.tnms/server/collectodn/product/collectodn",
-        "name": "collectodn",
-        "type": "war",
-        "path_with_namespace": "irms.tnms/server/collectodn",
-        "git_id": 868,
-        "git_name": "collectodn",
-        "git_web_url": "https://119.18.198.5:8443/irms.tnms/server/collectodn",
-        "default_product": "传输告警",
-        "package_name": "collectodn",
-        "image_name": "collectodn",
-        "package_directory": "product/collectodn",
-        "jenkins_name": "irms-jenkins-01",
-        "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
-        "module": "[{\"id\":\"irms.tnms/server/collectodn/odndatasync-H\",\"name\":\"odndatasync-H\",\"package_directory\":\"jar/odndatasync-H\",\"pom\":\"odndatasync-H/pom.xml\"},{\"id\":\"irms.tnms/server/collectodn/odncollect-H\",\"name\":\"odncollect-H\",\"package_directory\":\"jar/odncollect-H\",\"pom\":\"odncollect-H/pom.xml\"}]",
-        "description": "odn采集",
-        "container": "tomcat:7.0.72-jdk1-6u45",
-        "auto_test_file": null,
-        "login_name": null,
-        "login_password": null,
-        "auto_test_gitId": null,
-        "pps": [
-            {
-                "id": 1757,
-                "package_id": "irms.tnms/server/collectodn/product/collectodn",
                 "product": "传输告警",
                 "project": "广东移动"
             }
@@ -3910,7 +3887,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": null,
+        "description": "资源平台-黑龙江",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -3918,10 +3895,16 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1705,
+                "id": 1803,
                 "package_id": "irms.rms/web/webrms.heilongjiang/product/webrms",
                 "product": "资源平台",
                 "project": "黑龙江移动"
+            },
+            {
+                "id": 1804,
+                "package_id": "irms.rms/web/webrms.heilongjiang/product/webrms",
+                "product": "资源平台",
+                "project": "公共"
             }
         ],
         "existsGitProject": false
@@ -3941,7 +3924,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": null,
+        "description": "资源平台-广西",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -3949,7 +3932,13 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1706,
+                "id": 1820,
+                "package_id": "irms.rms/web/webrms.guangxi/product/webrms",
+                "product": "资源平台",
+                "project": "公共"
+            },
+            {
+                "id": 1819,
                 "package_id": "irms.rms/web/webrms.guangxi/product/webrms",
                 "product": "资源平台",
                 "project": "广西移动"
@@ -3972,7 +3961,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": null,
+        "description": "资源平台-海南",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -3980,10 +3969,16 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1707,
+                "id": 1815,
                 "package_id": "irms.rms/web/webrms.hainan/product/webrms",
                 "product": "资源平台",
                 "project": "海南移动"
+            },
+            {
+                "id": 1816,
+                "package_id": "irms.rms/web/webrms.hainan/product/webrms",
+                "product": "资源平台",
+                "project": "公共"
             }
         ],
         "existsGitProject": false
@@ -4003,7 +3998,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[{\"id\":\"irms.rms/server/areares/areares-H\",\"name\":\"areares-H\",\"package_directory\":\"jar/areares-H\",\"pom\":\"areares-H/pom.xml\"}]",
-        "description": null,
+        "description": "空间资源-服务",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -4011,49 +4006,49 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1656,
-                "package_id": "irms.rms/server/areares/product/areares",
-                "product": "资源平台",
-                "project": "广东移动"
-            },
-            {
-                "id": 1657,
-                "package_id": "irms.rms/server/areares/product/areares",
-                "product": "资源平台",
-                "project": "广西移动"
-            },
-            {
-                "id": 1658,
-                "package_id": "irms.rms/server/areares/product/areares",
-                "product": "资源平台",
-                "project": "湖北移动"
-            },
-            {
-                "id": 1659,
-                "package_id": "irms.rms/server/areares/product/areares",
-                "product": "资源平台",
-                "project": "黑龙江移动"
-            },
-            {
-                "id": 1660,
-                "package_id": "irms.rms/server/areares/product/areares",
-                "product": "资源平台",
-                "project": "吉林移动"
-            },
-            {
-                "id": 1661,
-                "package_id": "irms.rms/server/areares/product/areares",
-                "product": "资源平台",
-                "project": "海南移动"
-            },
-            {
-                "id": 1662,
+                "id": 1835,
                 "package_id": "irms.rms/server/areares/product/areares",
                 "product": "资源平台",
                 "project": "西藏移动"
             },
             {
-                "id": 1663,
+                "id": 1834,
+                "package_id": "irms.rms/server/areares/product/areares",
+                "product": "资源平台",
+                "project": "海南移动"
+            },
+            {
+                "id": 1833,
+                "package_id": "irms.rms/server/areares/product/areares",
+                "product": "资源平台",
+                "project": "吉林移动"
+            },
+            {
+                "id": 1832,
+                "package_id": "irms.rms/server/areares/product/areares",
+                "product": "资源平台",
+                "project": "黑龙江移动"
+            },
+            {
+                "id": 1831,
+                "package_id": "irms.rms/server/areares/product/areares",
+                "product": "资源平台",
+                "project": "湖北移动"
+            },
+            {
+                "id": 1830,
+                "package_id": "irms.rms/server/areares/product/areares",
+                "product": "资源平台",
+                "project": "广西移动"
+            },
+            {
+                "id": 1829,
+                "package_id": "irms.rms/server/areares/product/areares",
+                "product": "资源平台",
+                "project": "广东移动"
+            },
+            {
+                "id": 1836,
                 "package_id": "irms.rms/server/areares/product/areares",
                 "product": "资源平台",
                 "project": "公共"
@@ -4107,7 +4102,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[{\"id\":\"irms.rms/web/weblocation/irms.app.rms.location\",\"name\":\"irms.app.rms.location\",\"package_directory\":\"jar/irms.app.rms.location\",\"pom\":\"irms.app.rms.location/pom.xml\"},{\"id\":\"irms.rms/web/weblocation/irms.platform.es.location\",\"name\":\"irms.platform.es.location\",\"package_directory\":\"jar/irms.platform.es.location\",\"pom\":\"irms.platform.es.location/pom.xml\"},{\"id\":\"irms.rms/web/weblocation/irms.service.location\",\"name\":\"irms.service.location\",\"package_directory\":\"jar/irms.service.location\",\"pom\":\"irms.service.location/pom.xml\"}]",
-        "description": null,
+        "description": "空间资源-web",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -4115,49 +4110,49 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1664,
+                "id": 1843,
                 "package_id": "irms.rms/web/weblocation/product/weblocation",
                 "product": "资源平台",
                 "project": "广东移动"
             },
             {
-                "id": 1665,
+                "id": 1842,
                 "package_id": "irms.rms/web/weblocation/product/weblocation",
                 "product": "资源平台",
                 "project": "广西移动"
             },
             {
-                "id": 1666,
+                "id": 1841,
                 "package_id": "irms.rms/web/weblocation/product/weblocation",
                 "product": "资源平台",
                 "project": "湖北移动"
             },
             {
-                "id": 1667,
+                "id": 1840,
                 "package_id": "irms.rms/web/weblocation/product/weblocation",
                 "product": "资源平台",
                 "project": "黑龙江移动"
             },
             {
-                "id": 1668,
+                "id": 1839,
                 "package_id": "irms.rms/web/weblocation/product/weblocation",
                 "product": "资源平台",
                 "project": "吉林移动"
             },
             {
-                "id": 1669,
+                "id": 1838,
                 "package_id": "irms.rms/web/weblocation/product/weblocation",
                 "product": "资源平台",
                 "project": "海南移动"
             },
             {
-                "id": 1670,
+                "id": 1837,
                 "package_id": "irms.rms/web/weblocation/product/weblocation",
                 "product": "资源平台",
                 "project": "西藏移动"
             },
             {
-                "id": 1671,
+                "id": 1844,
                 "package_id": "irms.rms/web/weblocation/product/weblocation",
                 "product": "资源平台",
                 "project": "公共"
@@ -4693,7 +4688,7 @@
         "git_web_url": "https://119.18.198.5:8443/irms.dm/web/web.ddm.hbaccess",
         "default_product": "管线家客全生命",
         "package_name": "webpocc",
-        "image_name": "webpocc-hubei",
+        "image_name": "webpocc-hbaccess",
         "package_directory": "product/webddm",
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
@@ -4706,7 +4701,7 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1735,
+                "id": 1793,
                 "package_id": "irms.dm/web/web.ddm.hbaccess/product/webddm",
                 "product": "管线家客全生命",
                 "project": "湖北移动"
@@ -4791,7 +4786,7 @@
         "jenkins_name": "irms-jenkins-01",
         "jenkins_url": "http://doit:Doit1234@119.18.198.5:19900/jenkins/",
         "module": "[]",
-        "description": null,
+        "description": "资源平台-湖北",
         "container": "tomcat:7.0.72-jdk1-6u45",
         "auto_test_file": null,
         "login_name": null,
@@ -4799,10 +4794,16 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1708,
+                "id": 1817,
                 "package_id": "irms.rms/web/webrms.hubei/product/webrms",
                 "product": "资源平台",
                 "project": "湖北移动"
+            },
+            {
+                "id": 1818,
+                "package_id": "irms.rms/web/webrms.hubei/product/webrms",
+                "product": "资源平台",
+                "project": "公共"
             }
         ],
         "existsGitProject": false
@@ -4994,30 +4995,6 @@
         "existsGitProject": false
     },
     {
-        "id": "nfv/web/weboss/product/weboss",
-        "name": "weboss",
-        "type": "war",
-        "path_with_namespace": "nfv/web/weboss",
-        "git_id": 883,
-        "git_name": "weboss",
-        "git_web_url": "https://119.18.198.5:8443/nfv/web/weboss",
-        "default_product": null,
-        "package_name": null,
-        "image_name": null,
-        "package_directory": "product/weboss",
-        "jenkins_name": null,
-        "jenkins_url": null,
-        "module": "[{\"id\":\"nfv/web/weboss/irms.web.resource.oss4\",\"name\":\"irms.web.resource.oss4\",\"package_directory\":\"jar/irms.web.resource.oss4\",\"pom\":\"irms.web.resource.oss4/pom.xml\"}]",
-        "description": null,
-        "container": null,
-        "auto_test_file": null,
-        "login_name": null,
-        "login_password": null,
-        "auto_test_gitId": null,
-        "pps": [],
-        "existsGitProject": false
-    },
-    {
         "id": "irms.lifecyc/web/weblifecycxz/product/weblifecyc",
         "name": "weblifecyc",
         "type": "war",
@@ -5164,7 +5141,7 @@
         "auto_test_gitId": null,
         "pps": [
             {
-                "id": 1613,
+                "id": 1869,
                 "package_id": "irms.lifecyc/web/weblifecycnm/product/weblifecyc",
                 "product": "网络割接",
                 "project": "内蒙移动"
