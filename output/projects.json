@@ -1,1378 +1,1378 @@
 [
-    {
-        "namespace": "irms.rms/web/webrms.heilongjiang",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.heilongjiang",
-        "product": "资源平台",
-        "description": "资源平台-黑龙江",
-        "province": "黑龙江移动 公共 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rms/web/webrms.xizang",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.xizang",
-        "product": "资源平台",
-        "description": "资源平台-西藏",
-        "province": "西藏移动 公共 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rms/web/webrms.neimeng",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.neimeng",
-        "product": "资源平台",
-        "description": "资源平台-内蒙",
-        "province": "内蒙移动 公共 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rms/web/webrms.fujian",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.fujian",
-        "product": "资源平台",
-        "description": "资源平台-福建",
-        "province": "福建移动 公共 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rms/web/webrms.shanxi",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.shanxi",
-        "product": "资源平台",
-        "description": "资源平台-陕西",
-        "province": "陕西移动 公共 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rms/web/webrms.guangdong",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.guangdong",
-        "product": "资源平台",
-        "description": "资源平台-广东",
-        "province": "广东移动 公共 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rms/web/webrms.hubei",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.hubei",
-        "product": "资源平台",
-        "description": "资源平台-湖北",
-        "province": "湖北移动 公共 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rms/web/webrms.guangxi",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.guangxi",
-        "product": "资源平台",
-        "description": "资源平台-广西",
-        "province": "公共 广西移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rms/web/webrms.hainan",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.hainan",
-        "product": "资源平台",
-        "description": "资源平台-海南",
-        "province": "海南移动 公共 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rms/web/webrms.jilin",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.jilin",
-        "product": "资源平台",
-        "description": "资源平台-吉林",
-        "province": "吉林移动 公共 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.lifecyc/server/applifecyc",
-        "giturl": "https://119.18.198.5:8443/irms.lifecyc/server/applifecyc",
-        "product": "网络割接",
-        "description": "网络割接公共服务jar包",
-        "province": "",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.lifecyc/web/weblifecycgx",
-        "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycgx",
-        "product": "网络割接",
-        "description": "广西移动网络割接",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.lifecyc/web/weblifecychn",
-        "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecychn",
-        "product": "网络割接",
-        "description": "海南移动网络割接",
-        "province": "海南移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.lifecyc/web/weblifecychlj",
-        "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecychlj",
-        "product": "网络割接",
-        "description": "黑龙江移动网络割接",
-        "province": "黑龙江移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.lifecyc/web/weblifecycsx",
-        "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycsx",
-        "product": "网络割接",
-        "description": "陕西移动网络割接",
-        "province": "陕西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/web/webrms",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms",
-        "product": "资源平台",
-        "description": "",
-        "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rms/server/rms",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rms",
-        "product": "资源平台",
-        "description": "平台资源管理后台服务模块",
-        "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.lifecyc/web/weblifecycxz",
-        "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycxz",
-        "product": "网络割接",
-        "description": "西藏移动网络割接",
-        "province": "西藏移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.lifecyc/web/weblifecycnm",
-        "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycnm",
-        "product": "网络割接",
-        "description": "内蒙古移动网络割接",
-        "province": "内蒙移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.lifecyc/web/weblifecycjl",
-        "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycjl",
-        "product": "网络割接",
-        "description": "吉林移动网络割接",
-        "province": "吉林移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.lifecyc/web/weblifecychb",
-        "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecychb",
-        "product": "网络割接",
-        "description": "湖北移动网络割接",
-        "province": "湖北移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.lifecyc/web/weblifecycfj",
-        "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycfj",
-        "product": "网络割接",
-        "description": "福建移动网络割接",
-        "province": "福建移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/web/rofh.flow.hubei",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.hubei",
-        "product": "家客资源",
-        "description": "湖北家客资源流程",
-        "province": "湖北移动 ",
-        "status": "活跃",
-        "level": 2
-    },
-    {
-        "namespace": "irms.rofh/server/server.ponh",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.ponh",
-        "product": "家客资源",
-        "description": "家客XRPC接口（为小区入网、统一API提供）",
-        "province": "湖北移动 吉林移动 广西移动 陕西移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.dm/web/web.dm.jituan",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.dm.jituan",
-        "product": "管线资源",
-        "description": "集团管线资源WEB应用",
-        "province": "移动集团 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rofh/server/server.essync.common",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.essync.common",
-        "product": "家客",
-        "description": "ES同步（触发器方式）公共包",
-        "province": "湖北移动 吉林移动 广西移动 陕西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/server/server.essyncmsgsend",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.essyncmsgsend",
-        "product": "家客资源",
-        "description": "家客资源ES同步消息发送服务",
-        "province": "内蒙移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rofh/web/web.rofhflow.address",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.rofhflow.address",
-        "product": "家客资源",
-        "description": "标准地址流程",
-        "province": "内蒙移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/server/irms.app.rms.common",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/irms.app.rms.common",
-        "product": "家客",
-        "description": "标准地址-后端server公共服务",
-        "province": "湖北移动 吉林移动 广西移动 陕西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/server/server.essyncmsgsave",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.essyncmsgsave",
-        "product": "家客资源",
-        "description": "家客资源ES同步接收消息、消息处理服务",
-        "province": "内蒙移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rofh/web/web.pon.hubei",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.hubei",
-        "product": "家客资源",
-        "description": "湖北家客资源存量",
-        "province": "湖北移动 北京广电 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/web/web.pon.heilongjiang",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.heilongjiang",
-        "product": "家客资源",
-        "description": "黑龙江家客资源存量",
-        "province": "黑龙江移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rofh/web/web.pon.shanxi",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.shanxi",
-        "product": "家客资源",
-        "description": "陕西家客资源存量",
-        "province": "陕西移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.hbaccess",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.hbaccess",
-        "product": "管线家客全生命",
-        "description": "湖北家客入网WEB应用",
-        "province": "湖北移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rofh/web/web.pon.neimeng",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.neimeng",
-        "product": "家客资源",
-        "description": "内蒙古家客资源存量",
-        "province": "内蒙移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rofh/web/web.pon.jilin",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.jilin",
-        "product": "家客资源",
-        "description": "吉林家客资源存量",
-        "province": "吉林移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rofh/web/web.pon.guangxi",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.guangxi",
-        "product": "家客资源",
-        "description": "广西家客资源存量",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rofh/web/web.pon.hainan",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.hainan",
-        "product": "家客资源",
-        "description": "家客存量-海南",
-        "province": "海南移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rofh/web/web.pon.fujian",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.fujian",
-        "product": "家客资源",
-        "description": "家客资源存量-福建",
-        "province": "福建移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rofh/web/web.pon.xizang",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.xizang",
-        "product": "家客资源",
-        "description": "西藏家客资源存量",
-        "province": "西藏移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rofh/web/rofh.flow.xizang",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.xizang",
-        "product": "家客资源",
-        "description": "西藏家客资源流程",
-        "province": "西藏移动 ",
-        "status": "活跃",
-        "level": 2
-    },
-    {
-        "namespace": "irms.rofh/web/rofh.flow.shanxi",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.shanxi",
-        "product": "家客资源",
-        "description": "陕西家客资源流程",
-        "province": "陕西移动 ",
-        "status": "活跃",
-        "level": 2
-    },
-    {
-        "namespace": "irms.rofh/web/pongis",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/pongis",
-        "product": "家客资源",
-        "description": "flex版本gis选址",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rofh/web/web.rofh.common.local",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.rofh.common.local",
-        "product": "家客",
-        "description": "黑龙江业务开通底层jar包（本地研发维护）",
-        "province": "黑龙江移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/web/web.rofh.heilongjiang.local",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.rofh.heilongjiang.local",
-        "product": "家客开通",
-        "description": "黑龙江业务开通-本地研发维护",
-        "province": "黑龙江移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/web/rofh.flow.heilongjiang",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.heilongjiang",
-        "product": "家客资源",
-        "description": "黑龙江家客资源流程",
-        "province": "黑龙江移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rofh/web/rofh.flow.neimeng",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.neimeng",
-        "product": "家客资源",
-        "description": "家客资源流程-内蒙",
-        "province": "内蒙古移动 ",
-        "status": "活跃",
-        "level": 2
-    },
-    {
-        "namespace": "irms.rofh/web/rofh.flow.guangxi",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.guangxi",
-        "product": "家客资源",
-        "description": "广西家客资源流程",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/web/rofh.flow.jilin",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.jilin",
-        "product": "家客资源",
-        "description": "家客资源流程-吉林",
-        "province": "吉林移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rofh/server/rofh.flow.common",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/rofh.flow.common",
-        "product": "家客",
-        "description": "家客流程底层公共工程",
-        "province": "湖北移动 吉林移动 广西移动 陕西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/server/server.rofh.interface",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.rofh.interface",
-        "product": "家客资源",
-        "description": "家客资源实时接口",
-        "province": "陕西移动 西藏移动 北京广电 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rofh/server/server.huss.diagnosis.henan",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.huss.diagnosis.henan",
-        "product": "家客保障",
-        "description": "河南家客保障故障诊断后台服务",
-        "province": "河南移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rofh/web/web.rofh.hubei",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.rofh.hubei",
-        "product": "家客资源",
-        "description": "湖北业务开通",
-        "province": "湖北移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rofh/server/server.huss.guangdong",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.huss.guangdong",
-        "product": "家客资源",
-        "description": "家客资源核查服务",
-        "province": "内蒙移动 广东移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.gxcollect",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.gxcollect",
-        "product": "管线家客全生命",
-        "description": "广西存量采集WEB应用",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/server/server.restosde.cdm",
-        "giturl": "https://119.18.198.5:8443/irms.dm/server/server.restosde.cdm",
-        "product": "管线普查",
-        "description": "管线普查同步服务",
-        "province": "湖北移动 广西移动 陕西移动 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.dm/web/web.ddmtnms.guangxi",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddmtnms.guangxi",
-        "product": "管线家客全生命",
-        "description": "广西集中调度管线资源录入WEB应用",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.xzaccess",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.xzaccess",
-        "product": "管线家客全生命",
-        "description": "西藏小区入网WEB应用",
-        "province": "西藏移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.dm/server/server.restosde.ddm",
-        "giturl": "https://119.18.198.5:8443/irms.dm/server/server.restosde.ddm",
-        "product": "管线家客全生命",
-        "description": "管线家客全生命周期同步服务",
-        "province": "西藏移动 陕西移动 河南移动 湖北移动 广西移动 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.gxaccess",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.gxaccess",
-        "product": "管线家客全生命",
-        "description": "广西家客入网WEB应用",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/server/server.restosde",
-        "giturl": "https://119.18.198.5:8443/irms.dm/server/server.restosde",
-        "product": "管线资源",
-        "description": "管线资源同步服务",
-        "province": "移动集团 西藏移动 吉林移动 河南移动 福建移动 黑龙江移动 湖北移动 广西移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.dm/web/web.oversee.guangxi",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.oversee.guangxi",
-        "product": "管线家客全生命",
-        "description": "广西三盯流程WEB应用",
-        "province": "广西移动 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.dm/web/web.es.convert",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.es.convert",
-        "product": "管线资源",
-        "description": "管线ES日志翻译程序",
-        "province": "广西移动 陕西移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.xizang",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.xizang",
-        "product": "管线家客全生命",
-        "description": "西藏管线全生命周期WEB应用",
-        "province": "西藏移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.dm/web/web.rofhbox.guangxi",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.rofhbox.guangxi",
-        "product": "管线资源",
-        "description": "家客箱体维护-广西版本",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 2
-    },
-    {
-        "namespace": "irms.dm/web/web.cdm.shanxi",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.cdm.shanxi",
-        "product": "管线普查",
-        "description": "陕西管线普查WEB应用",
-        "province": "陕西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/server/server.opticalcheck",
-        "giturl": "https://119.18.198.5:8443/irms.dm/server/server.opticalcheck",
-        "product": "管线资源",
-        "description": "管线资源核查服务",
-        "province": "西藏移动 陕西移动 吉林移动 河南移动 黑龙江移动 湖北移动 广西移动 移动集团 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.dm/web/web.cad.common",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.cad.common",
-        "product": "管线",
-        "description": "CAD在线设计—WEB公共包",
-        "province": "陕西移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.jilin",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.jilin",
-        "product": "管线家客全生命",
-        "description": "吉林小区入网WEB应用",
-        "province": "吉林移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.dm/server/server.ddm",
-        "giturl": "https://119.18.198.5:8443/irms.dm/server/server.ddm",
-        "product": "管线家客全生命",
-        "description": "管线家客全生命周期DDM服务",
-        "province": "广西移动 湖北移动 河南移动 陕西移动 西藏移动 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.henan",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.henan",
-        "product": "管线家客全生命",
-        "description": "河南管线全生命周期WEB应用",
-        "province": "河南移动 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.guangxi",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.guangxi",
-        "product": "管线家客全生命",
-        "description": "广西管线全生命周期WEB应用",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.shanxi",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.shanxi",
-        "product": "管线家客全生命",
-        "description": "陕西家客管线全生命周期WEB应用",
-        "province": "陕西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.hubei",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.hubei",
-        "product": "管线家客全生命",
-        "description": "湖北管线全生命周期WEB应用",
-        "province": "湖北移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.common",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.common",
-        "product": "管线",
-        "description": "管线家客全生命周期—WEB公共包",
-        "province": "广西移动 湖北移动 河南移动 陕西移动 西藏移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/web/web.cdm",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.cdm",
-        "product": "管线普查",
-        "description": "管线普查WEB应用",
-        "province": "广西移动 湖北移动 ",
-        "status": "活跃",
-        "level": 2
-    },
-    {
-        "namespace": "irms.dm/web/web.dm",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.dm",
-        "product": "管线资源",
-        "description": "管线资源WEB应用",
-        "province": "黑龙江移动 广西移动 湖北移动 西藏移动 陕西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/server/server.cdm",
-        "giturl": "https://119.18.198.5:8443/irms.dm/server/server.cdm",
-        "product": "管线普查",
-        "description": "管线普查CDM服务",
-        "province": "广西移动 湖北移动 陕西移动 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.dm/web/web.dm.common",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.dm.common",
-        "product": "管线",
-        "description": "管线资源—WEB公共包",
-        "province": "移动集团 西藏移动 吉林移动 河南移动 福建移动 黑龙江移动 湖北移动 广西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.dm/server/server.dm",
-        "giturl": "https://119.18.198.5:8443/irms.dm/server/server.dm",
-        "product": "管线资源",
-        "description": "管线资源DM服务",
-        "province": "西藏移动 陕西移动 吉林移动 河南移动 黑龙江移动 湖北移动 广西移动 移动集团 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/server/server.huss.alarm",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.huss.alarm",
-        "product": "家客保障",
-        "description": "家客保障告警同步分析服务",
-        "province": "内蒙广电 河南移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.tnms/server/attemp",
-        "giturl": "https://119.18.198.5:8443/irms.tnms/server/attemp",
-        "description": "传输网管电路服务侧版本",
-        "province": "黑龙江移动 吉林移动 内蒙移动 陕西移动 海南移动 广西移动 广东移动 西藏移动 湖北移动",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rofh/server/server.pon.common",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.pon.common",
-        "product": "家客",
-        "description": "家客流程ponh服务",
-        "province": "湖北移动 吉林移动 广西移动 陕西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/web/web.weban",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.weban",
-        "product": "家客保障",
-        "description": "家客保障资源管理服务",
-        "province": "河南移动 内蒙广电 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.dm/web/web.ddm.change",
-        "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.change",
-        "product": "管线家客全生命",
-        "description": "管线全生命周期变更流程",
-        "province": "陕西移动 湖北移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/web/web.huss",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.huss",
-        "product": "家客保障",
-        "description": "家客保障诊断前台服务",
-        "province": "河南移动 内蒙广电 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rofh/web/web.huss.common",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.huss.common",
-        "product": "家客",
-        "description": "家客保障底层公共包，存放公共类和xml文件",
-        "province": "河南移动",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.rofh/web/web.rms.address",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.rms.address",
-        "product": "家客资源",
-        "description": "标准地址存量功能-内蒙",
-        "province": "陕西移动 湖北移动 内蒙移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rofh/web/web.huss.report.henan",
-        "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.huss.report.henan",
-        "product": "家客保障",
-        "description": "家客保障河南报表服务",
-        "province": "河南移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/areares",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/areares",
-        "product": "资源平台",
-        "province": "西藏移动 海南移动 吉林移动 黑龙江移动 湖北移动 广西移动 广东移动 公共 ",
-        "status": "活跃",
-        "level": 1,
-        "description": "空间资源-服务"
-    },
-    {
-        "namespace": "irms.rms/server/rmsconf.fujian",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.fujian",
-        "product": "资源平台",
-        "description": "福建配置文件",
-        "province": "福建移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rmsconf.neimenggu",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.neimenggu",
-        "product": "资源平台",
-        "description": "内蒙古配置文件",
-        "province": "内蒙移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rmsconf.hainan",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.hainan",
-        "product": "资源平台",
-        "description": "海南配置文件",
-        "province": "海南移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rmsconf.shanxi",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.shanxi",
-        "product": "资源平台",
-        "description": "陕西配置文件",
-        "province": "陕西移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rmsconf.jilin",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.jilin",
-        "product": "资源平台",
-        "description": "吉林配置文件",
-        "province": "吉林移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rmsconf.heilongjiang",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.heilongjiang",
-        "product": "资源平台",
-        "description": "黑龙江配置文件",
-        "province": "黑龙江移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rmsconf.guangdong",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.guangdong",
-        "product": "资源平台",
-        "description": "广东配置文件",
-        "province": "广东移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rmsconf.guangxi",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.guangxi",
-        "product": "资源平台",
-        "description": "广西配置文件",
-        "province": "广西移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rms.shanxi",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.shanxi",
-        "product": "资源平台",
-        "description": "陕西省个性化framework包",
-        "province": "陕西移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rms.heilongjiang",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.heilongjiang",
-        "product": "资源平台",
-        "description": "黑龙江省个性化framework包",
-        "province": "黑龙江移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rms.hubei",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.hubei",
-        "product": "资源平台",
-        "description": "湖北省个性化framework包",
-        "province": "湖北移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rms.guangxi",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.guangxi",
-        "product": "资源平台",
-        "description": "广西省个性化framework包",
-        "province": "广西移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rms.guangdong",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.guangdong",
-        "product": "资源平台",
-        "description": "广东省个性化framework包",
-        "province": "广东移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rms.fujian",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.fujian",
-        "product": "资源平台",
-        "description": "福建省个性化framework包",
-        "province": "福建移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rms.hainan",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.hainan",
-        "product": "资源平台",
-        "description": "海南省个性化framework包",
-        "province": "海南移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rms.neimenggu",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.neimenggu",
-        "product": "资源平台",
-        "description": "内蒙古省个性化framework包",
-        "province": "内蒙移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rms.jilin",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.jilin",
-        "product": "资源平台",
-        "description": "吉林省个性化framework包",
-        "province": "吉林移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/web/weblocation",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/weblocation",
-        "product": "资源平台",
-        "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
-        "status": "活跃",
-        "level": 0,
-        "description": "空间资源-web"
-    },
-    {
-        "namespace": "irms.rms/web/webaddress",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webaddress",
-        "product": "资源平台",
-        "description": "标准地址模块",
-        "province": "广西移动",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/web/webreport",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webreport",
-        "product": "资源平台",
-        "description": "",
-        "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.rms/web/websearch",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/websearch",
-        "product": "资源平台",
-        "description": "",
-        "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.rms/web/cas",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/cas",
-        "product": "资源平台",
-        "description": "cas模块",
-        "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.sf/server/server.sf.interface",
-        "giturl": "https://119.18.198.5:8443/irms.sf/server/server.sf.interface",
-        "product": "集客开通",
-        "description": "接口分离服务器",
-        "province": "福建移动 湖北移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.rms/server/rmsconf.hubei",
-        "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.hubei",
-        "product": "资源平台",
-        "description": "湖北配置文件",
-        "province": "湖北移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "rmc/cmp/irms.platform.ucmp",
-        "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.ucmp",
-        "product": "核心CMP",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.sf/web/irms.sf.centerdispatch",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/irms.sf.centerdispatch",
-        "product": "集客开通",
-        "description": "广西集中调度项目",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "rmc/cmp/irms.platform.flowinterface",
-        "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.flowinterface",
-        "product": "核心CMP",
-        "description": "流程对外接口项目",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.sf/server/irms.service.sf.resmanage",
-        "giturl": "https://119.18.198.5:8443/irms.sf/server/irms.service.sf.resmanage",
-        "product": "集客开通",
-        "description": "广西pon快开接口项目",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.sfliferms.hubei",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.sfliferms.hubei",
-        "product": "集客开通",
-        "description": "湖北版本集客全生命周期APP侧",
-        "province": "湖北移动",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.sflifemanage.hubei",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.sflifemanage.hubei",
-        "product": "集客开通",
-        "description": "湖北全生命周期",
-        "province": "湖北移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.liferms",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.liferms",
-        "product": "集客开通",
-        "description": "河南全生命周期",
-        "province": "河南移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.lifemanage",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.lifemanage",
-        "product": "集客开通",
-        "description": "河南版本集客全生命周期web侧",
-        "province": "河南移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "rmc/cmp/irms.platform.frame",
-        "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.frame",
-        "product": "核心CMP",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "rmc/cmp/irms.platform.flow",
-        "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.flow",
-        "product": "核心CMP",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "rmc/cmp/irms.platform.core",
-        "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.core",
-        "product": "核心CMP",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "rmc/cmp/irms.platform.cmp",
-        "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.cmp",
-        "product": "核心CMP",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "rmc/drm/apigateway",
-        "giturl": "https://119.18.198.5:8443/rmc/drm/apigateway",
-        "product": "核心DRM",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.sfliferms",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.sfliferms",
-        "product": "集客开通",
-        "description": "全国版本集客全生命周期系统app侧",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.sflifemanage",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.sflifemanage",
-        "product": "集客开通",
-        "description": "全国版本集客全生命周期系统web侧",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.sf/web/web.trans.shanghai",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.trans.shanghai",
-        "product": "集客开通",
-        "description": "上海传输网管",
-        "province": "上海移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.cmcc",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.cmcc",
-        "product": "集客开通",
-        "description": "集团传输调度",
-        "province": "移动集团 ",
-        "status": "活跃",
-        "level": 2
-    },
-    {
-        "namespace": "irms.rms/web/websysmanage",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/websysmanage",
-        "product": "资源平台",
-        "description": "权限管理模块",
-        "province": "河南移动 西藏移动 吉林移动 黑龙江移动 广西移动 湖北移动 广东移动 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.sf/web/web.trans.ras",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.trans.ras",
-        "product": "集客开通",
-        "description": "新传输电路调度",
-        "province": "海南移动 陕西移动 湖北移动 河南移动 黑龙江移动 吉林移动 广西移动 内蒙移动 ",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.rms/web/webportal",
-        "giturl": "https://119.18.198.5:8443/irms.rms/web/webportal",
-        "product": "资源平台",
-        "description": "新综资webportal",
-        "province": "西藏移动 黑龙江移动 河南移动 吉林移动 湖北移动 广西移动 广东移动 ",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.neimeng",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.neimeng",
-        "product": "集客开通",
-        "description": "内蒙古集客开通",
-        "province": "内蒙移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.hainan",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.hainan",
-        "product": "集客开通",
-        "description": "海南集客开通",
-        "province": "海南移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.province",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.province",
-        "product": "集客开通",
-        "description": "跨省通用版本",
-        "province": "吉林移动 黑龙江移动 陕西移动 ",
-        "status": "活跃",
-        "level": 2
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.jituan",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.jituan",
-        "product": "集客开通",
-        "description": "跨省调度集团侧",
-        "province": "移动集团 ",
-        "status": "活跃",
-        "level": 2
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.hubei",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.hubei",
-        "product": "集客开通",
-        "description": "湖北集客开通",
-        "province": "湖北移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.shanxi",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.shanxi",
-        "product": "集客开通",
-        "description": "陕西集客开通",
-        "province": "陕西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.guangxi",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.guangxi",
-        "product": "集客开通",
-        "description": "广西集客开通",
-        "province": "广西移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.jilin",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.jilin",
-        "product": "集客开通",
-        "description": "吉林集客开通",
-        "province": "吉林移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.common",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.common",
-        "product": "集客开通",
-        "description": "公共集客开通",
-        "province": "广西移动 湖北移动 黑龙江移动 福建移动 吉林移动 内蒙移动 陕西移动 海南移动 西藏移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.fujian",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.fujian",
-        "product": "集客开通",
-        "description": "福建集客开通",
-        "province": "福建移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "rmc/drm/irms.product.rmc",
-        "giturl": "https://119.18.198.5:8443/rmc/drm/irms.product.rmc",
-        "product": "核心DRM",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "irms.sf/web/web.sf.hlj",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.hlj",
-        "product": "集客开通",
-        "description": "黑龙江集客开通",
-        "province": "黑龙江移动 ",
-        "status": "活跃",
-        "level": 0
-    },
-    {
-        "namespace": "irms.sf/web/web.ras",
-        "giturl": "https://119.18.198.5:8443/irms.sf/web/web.ras",
-        "product": "集客开通",
-        "description": "全国版本传输电路调度",
-        "province": "陕西移动 内蒙移动 吉林移动 黑龙江移动 湖北移动 广西移动",
-        "status": "活跃",
-        "level": 1
-    },
-    {
-        "namespace": "irms.common/gis",
-        "giturl": "https://119.18.198.5:8443/irms.common/gis",
-        "product": "通用GIS平台",
-        "description": "通用GIS平台",
-        "province": "内蒙移动 黑龙江移动 广西移动 河南移动 陕西移动 福建移动 湖北移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "irms.common/topo",
-        "giturl": "https://119.18.198.5:8443/irms.common/topo",
-        "product": "通用拓扑平台",
-        "description": "通用拓扑平台",
-        "province": "广东移动 湖北移动 黑龙江移动 福建移动 吉林移动 内蒙移动 陕西移动 海南移动 西藏移动 青海移动 广西移动 ",
-        "status": "活跃",
-        "level": 3
-    },
-    {
-        "namespace": "rmc/drm/irms.platform.drm.rmc",
-        "giturl": "https://119.18.198.5:8443/rmc/drm/irms.platform.drm.rmc",
-        "product": "核心DRM",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "rmc/drm/irms.platform.drm",
-        "giturl": "https://119.18.198.5:8443/rmc/drm/irms.platform.drm",
-        "product": "核心DRM",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "rmc/drm/irms.platform.drm.cache",
-        "giturl": "https://119.18.198.5:8443/rmc/drm/irms.platform.drm.cache",
-        "product": "核心DRM",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    },
-    {
-        "namespace": "rmc/drm/irms.platform.drm.core",
-        "giturl": "https://119.18.198.5:8443/rmc/drm/irms.platform.drm.core",
-        "product": "核心DRM",
-        "description": "",
-        "province": "",
-        "status": "稳定",
-        "level": 100
-    }
+  {
+    "namespace": "irms.rms/web/webrms.heilongjiang",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.heilongjiang",
+    "product": "资源平台",
+    "description": "资源平台-黑龙江",
+    "province": "黑龙江移动 公共 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rms/web/webrms.xizang",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.xizang",
+    "product": "资源平台",
+    "description": "资源平台-西藏",
+    "province": "西藏移动 公共 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rms/web/webrms.neimeng",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.neimeng",
+    "product": "资源平台",
+    "description": "资源平台-内蒙",
+    "province": "内蒙移动 公共 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rms/web/webrms.fujian",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.fujian",
+    "product": "资源平台",
+    "description": "资源平台-福建",
+    "province": "福建移动 公共 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rms/web/webrms.shanxi",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.shanxi",
+    "product": "资源平台",
+    "description": "资源平台-陕西",
+    "province": "陕西移动 公共 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rms/web/webrms.guangdong",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.guangdong",
+    "product": "资源平台",
+    "description": "资源平台-广东",
+    "province": "广东移动 公共 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rms/web/webrms.hubei",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.hubei",
+    "product": "资源平台",
+    "description": "资源平台-湖北",
+    "province": "湖北移动 公共 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rms/web/webrms.guangxi",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.guangxi",
+    "product": "资源平台",
+    "description": "资源平台-广西",
+    "province": "公共 广西移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rms/web/webrms.hainan",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.hainan",
+    "product": "资源平台",
+    "description": "资源平台-海南",
+    "province": "海南移动 公共 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rms/web/webrms.jilin",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms.jilin",
+    "product": "资源平台",
+    "description": "资源平台-吉林",
+    "province": "吉林移动 公共 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.lifecyc/server/applifecyc",
+    "giturl": "https://119.18.198.5:8443/irms.lifecyc/server/applifecyc",
+    "product": "网络割接",
+    "description": "网络割接公共服务jar包",
+    "province": "",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.lifecyc/web/weblifecycgx",
+    "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycgx",
+    "product": "网络割接",
+    "description": "广西移动网络割接",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.lifecyc/web/weblifecychn",
+    "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecychn",
+    "product": "网络割接",
+    "description": "海南移动网络割接",
+    "province": "海南移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.lifecyc/web/weblifecychlj",
+    "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecychlj",
+    "product": "网络割接",
+    "description": "黑龙江移动网络割接",
+    "province": "黑龙江移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.lifecyc/web/weblifecycsx",
+    "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycsx",
+    "product": "网络割接",
+    "description": "陕西移动网络割接",
+    "province": "陕西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/web/webrms",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webrms",
+    "product": "资源平台",
+    "description": "",
+    "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rms/server/rms",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rms",
+    "product": "资源平台",
+    "description": "平台资源管理后台服务模块",
+    "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.lifecyc/web/weblifecycxz",
+    "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycxz",
+    "product": "网络割接",
+    "description": "西藏移动网络割接",
+    "province": "西藏移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.lifecyc/web/weblifecycnm",
+    "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycnm",
+    "product": "网络割接",
+    "description": "内蒙古移动网络割接",
+    "province": "内蒙移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.lifecyc/web/weblifecycjl",
+    "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycjl",
+    "product": "网络割接",
+    "description": "吉林移动网络割接",
+    "province": "吉林移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.lifecyc/web/weblifecychb",
+    "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecychb",
+    "product": "网络割接",
+    "description": "湖北移动网络割接",
+    "province": "湖北移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.lifecyc/web/weblifecycfj",
+    "giturl": "https://119.18.198.5:8443/irms.lifecyc/web/weblifecycfj",
+    "product": "网络割接",
+    "description": "福建移动网络割接",
+    "province": "福建移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/web/rofh.flow.hubei",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.hubei",
+    "product": "家客资源",
+    "description": "湖北家客资源流程",
+    "province": "湖北移动 ",
+    "status": "活跃",
+    "level": 2
+  },
+  {
+    "namespace": "irms.rofh/server/server.ponh",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.ponh",
+    "product": "家客资源",
+    "description": "家客XRPC接口（为小区入网、统一API提供）",
+    "province": "湖北移动 吉林移动 广西移动 陕西移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.dm/web/web.dm.jituan",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.dm.jituan",
+    "product": "管线资源",
+    "description": "集团管线资源WEB应用",
+    "province": "移动集团 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rofh/server/server.essync.common",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.essync.common",
+    "product": "家客",
+    "description": "ES同步（触发器方式）公共包",
+    "province": "湖北移动 吉林移动 广西移动 陕西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/server/server.essyncmsgsend",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.essyncmsgsend",
+    "product": "家客资源",
+    "description": "家客资源ES同步消息发送服务",
+    "province": "内蒙移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rofh/web/web.rofhflow.address",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.rofhflow.address",
+    "product": "家客资源",
+    "description": "标准地址流程",
+    "province": "内蒙移动 陕西移动 湖北移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/server/irms.app.rms.common",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/irms.app.rms.common",
+    "product": "家客",
+    "description": "标准地址-后端server公共服务",
+    "province": "湖北移动 吉林移动 广西移动 陕西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/server/server.essyncmsgsave",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.essyncmsgsave",
+    "product": "家客资源",
+    "description": "家客资源ES同步接收消息、消息处理服务",
+    "province": "内蒙移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rofh/web/web.pon.hubei",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.hubei",
+    "product": "家客资源",
+    "description": "湖北家客资源存量",
+    "province": "湖北移动 北京广电 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/web/web.pon.heilongjiang",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.heilongjiang",
+    "product": "家客资源",
+    "description": "黑龙江家客资源存量",
+    "province": "黑龙江移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rofh/web/web.pon.shanxi",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.shanxi",
+    "product": "家客资源",
+    "description": "陕西家客资源存量",
+    "province": "陕西移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.hbaccess",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.hbaccess",
+    "product": "管线家客全生命",
+    "description": "湖北家客入网WEB应用",
+    "province": "湖北移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rofh/web/web.pon.neimeng",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.neimeng",
+    "product": "家客资源",
+    "description": "内蒙古家客资源存量",
+    "province": "内蒙移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rofh/web/web.pon.jilin",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.jilin",
+    "product": "家客资源",
+    "description": "吉林家客资源存量",
+    "province": "吉林移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rofh/web/web.pon.guangxi",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.guangxi",
+    "product": "家客资源",
+    "description": "广西家客资源存量",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rofh/web/web.pon.hainan",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.hainan",
+    "product": "家客资源",
+    "description": "家客存量-海南",
+    "province": "海南移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rofh/web/web.pon.fujian",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.fujian",
+    "product": "家客资源",
+    "description": "家客资源存量-福建",
+    "province": "福建移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rofh/web/web.pon.xizang",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.pon.xizang",
+    "product": "家客资源",
+    "description": "西藏家客资源存量",
+    "province": "西藏移动 海南移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rofh/web/rofh.flow.xizang",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.xizang",
+    "product": "家客资源",
+    "description": "西藏家客资源流程",
+    "province": "西藏移动 ",
+    "status": "活跃",
+    "level": 2
+  },
+  {
+    "namespace": "irms.rofh/web/rofh.flow.shanxi",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.shanxi",
+    "product": "家客资源",
+    "description": "陕西家客资源流程",
+    "province": "陕西移动 ",
+    "status": "活跃",
+    "level": 2
+  },
+  {
+    "namespace": "irms.rofh/web/pongis",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/pongis",
+    "product": "家客资源",
+    "description": "flex版本gis选址",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rofh/web/web.rofh.common.local",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.rofh.common.local",
+    "product": "家客",
+    "description": "黑龙江业务开通底层jar包（本地研发维护）",
+    "province": "黑龙江移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/web/web.rofh.heilongjiang.local",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.rofh.heilongjiang.local",
+    "product": "家客开通",
+    "description": "黑龙江业务开通-本地研发维护",
+    "province": "黑龙江移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/web/rofh.flow.heilongjiang",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.heilongjiang",
+    "product": "家客资源",
+    "description": "黑龙江家客资源流程",
+    "province": "黑龙江移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rofh/web/rofh.flow.neimeng",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.neimeng",
+    "product": "家客资源",
+    "description": "家客资源流程-内蒙",
+    "province": "内蒙古移动 ",
+    "status": "活跃",
+    "level": 2
+  },
+  {
+    "namespace": "irms.rofh/web/rofh.flow.guangxi",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.guangxi",
+    "product": "家客资源",
+    "description": "广西家客资源流程",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/web/rofh.flow.jilin",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/rofh.flow.jilin",
+    "product": "家客资源",
+    "description": "家客资源流程-吉林",
+    "province": "吉林移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rofh/server/rofh.flow.common",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/rofh.flow.common",
+    "product": "家客",
+    "description": "家客流程底层公共工程",
+    "province": "湖北移动 吉林移动 广西移动 陕西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/server/server.rofh.interface",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.rofh.interface",
+    "product": "家客资源",
+    "description": "家客资源实时接口",
+    "province": "北京广电 西藏移动 陕西移动 黑龙江移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rofh/server/server.huss.diagnosis.henan",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.huss.diagnosis.henan",
+    "product": "家客保障",
+    "description": "河南家客保障故障诊断后台服务",
+    "province": "河南移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rofh/web/web.rofh.hubei",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.rofh.hubei",
+    "product": "家客资源",
+    "description": "湖北业务开通",
+    "province": "湖北移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rofh/server/server.huss.guangdong",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.huss.guangdong",
+    "product": "家客资源",
+    "description": "家客资源核查服务",
+    "province": "内蒙移动 广东移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.gxcollect",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.gxcollect",
+    "product": "管线家客全生命",
+    "description": "广西存量采集WEB应用",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/server/server.restosde.cdm",
+    "giturl": "https://119.18.198.5:8443/irms.dm/server/server.restosde.cdm",
+    "product": "管线普查",
+    "description": "管线普查同步服务",
+    "province": "湖北移动 广西移动 陕西移动 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.dm/web/web.ddmtnms.guangxi",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddmtnms.guangxi",
+    "product": "管线家客全生命",
+    "description": "广西集中调度管线资源录入WEB应用",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.xzaccess",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.xzaccess",
+    "product": "管线家客全生命",
+    "description": "西藏小区入网WEB应用",
+    "province": "西藏移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.dm/server/server.restosde.ddm",
+    "giturl": "https://119.18.198.5:8443/irms.dm/server/server.restosde.ddm",
+    "product": "管线家客全生命",
+    "description": "管线家客全生命周期同步服务",
+    "province": "西藏移动 陕西移动 河南移动 湖北移动 广西移动 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.gxaccess",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.gxaccess",
+    "product": "管线家客全生命",
+    "description": "广西家客入网WEB应用",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/server/server.restosde",
+    "giturl": "https://119.18.198.5:8443/irms.dm/server/server.restosde",
+    "product": "管线资源",
+    "description": "管线资源同步服务",
+    "province": "移动集团 西藏移动 吉林移动 河南移动 福建移动 黑龙江移动 湖北移动 广西移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.dm/web/web.oversee.guangxi",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.oversee.guangxi",
+    "product": "管线家客全生命",
+    "description": "广西三盯流程WEB应用",
+    "province": "广西移动 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.dm/web/web.es.convert",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.es.convert",
+    "product": "管线资源",
+    "description": "管线ES日志翻译程序",
+    "province": "广西移动 陕西移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.xizang",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.xizang",
+    "product": "管线家客全生命",
+    "description": "西藏管线全生命周期WEB应用",
+    "province": "西藏移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.dm/web/web.rofhbox.guangxi",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.rofhbox.guangxi",
+    "product": "管线资源",
+    "description": "家客箱体维护-广西版本",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 2
+  },
+  {
+    "namespace": "irms.dm/web/web.cdm.shanxi",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.cdm.shanxi",
+    "product": "管线普查",
+    "description": "陕西管线普查WEB应用",
+    "province": "陕西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/server/server.opticalcheck",
+    "giturl": "https://119.18.198.5:8443/irms.dm/server/server.opticalcheck",
+    "product": "管线资源",
+    "description": "管线资源核查服务",
+    "province": "西藏移动 陕西移动 吉林移动 河南移动 黑龙江移动 湖北移动 广西移动 移动集团 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.dm/web/web.cad.common",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.cad.common",
+    "product": "管线",
+    "description": "CAD在线设计—WEB公共包",
+    "province": "陕西移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.jilin",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.jilin",
+    "product": "管线家客全生命",
+    "description": "吉林小区入网WEB应用",
+    "province": "吉林移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.dm/server/server.ddm",
+    "giturl": "https://119.18.198.5:8443/irms.dm/server/server.ddm",
+    "product": "管线家客全生命",
+    "description": "管线家客全生命周期DDM服务",
+    "province": "广西移动 湖北移动 河南移动 陕西移动 西藏移动 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.henan",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.henan",
+    "product": "管线家客全生命",
+    "description": "河南管线全生命周期WEB应用",
+    "province": "河南移动 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.guangxi",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.guangxi",
+    "product": "管线家客全生命",
+    "description": "广西管线全生命周期WEB应用",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.shanxi",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.shanxi",
+    "product": "管线家客全生命",
+    "description": "陕西家客管线全生命周期WEB应用",
+    "province": "陕西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.hubei",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.hubei",
+    "product": "管线家客全生命",
+    "description": "湖北管线全生命周期WEB应用",
+    "province": "湖北移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.common",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.common",
+    "product": "管线",
+    "description": "管线家客全生命周期—WEB公共包",
+    "province": "广西移动 湖北移动 河南移动 陕西移动 西藏移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/web/web.cdm",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.cdm",
+    "product": "管线普查",
+    "description": "管线普查WEB应用",
+    "province": "广西移动 湖北移动 ",
+    "status": "活跃",
+    "level": 2
+  },
+  {
+    "namespace": "irms.dm/web/web.dm",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.dm",
+    "product": "管线资源",
+    "description": "管线资源WEB应用",
+    "province": "西藏移动 湖北移动 广西移动 黑龙江移动 陕西移动 吉林移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/server/server.cdm",
+    "giturl": "https://119.18.198.5:8443/irms.dm/server/server.cdm",
+    "product": "管线普查",
+    "description": "管线普查CDM服务",
+    "province": "广西移动 湖北移动 陕西移动 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.dm/web/web.dm.common",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.dm.common",
+    "product": "管线",
+    "description": "管线资源—WEB公共包",
+    "province": "移动集团 西藏移动 吉林移动 河南移动 福建移动 黑龙江移动 湖北移动 广西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.dm/server/server.dm",
+    "giturl": "https://119.18.198.5:8443/irms.dm/server/server.dm",
+    "product": "管线资源",
+    "description": "管线资源DM服务",
+    "province": "西藏移动 陕西移动 吉林移动 河南移动 黑龙江移动 湖北移动 广西移动 移动集团 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/server/server.huss.alarm",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.huss.alarm",
+    "product": "家客保障",
+    "description": "家客保障告警同步分析服务",
+    "province": "内蒙广电 河南移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.tnms/server/attemp",
+    "giturl": "https://119.18.198.5:8443/irms.tnms/server/attemp",
+    "description": "传输网管电路服务侧版本",
+    "province": "黑龙江移动 吉林移动 内蒙移动 陕西移动 海南移动 广西移动 广东移动 西藏移动 湖北移动",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rofh/server/server.pon.common",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/server/server.pon.common",
+    "product": "家客",
+    "description": "家客流程ponh服务",
+    "province": "湖北移动 吉林移动 广西移动 陕西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/web/web.weban",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.weban",
+    "product": "家客保障",
+    "description": "家客保障资源管理服务",
+    "province": "河南移动 内蒙广电 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.dm/web/web.ddm.change",
+    "giturl": "https://119.18.198.5:8443/irms.dm/web/web.ddm.change",
+    "product": "管线家客全生命",
+    "description": "管线全生命周期变更流程",
+    "province": "陕西移动 湖北移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/web/web.huss",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.huss",
+    "product": "家客保障",
+    "description": "家客保障诊断前台服务",
+    "province": "河南移动 内蒙广电 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rofh/web/web.huss.common",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.huss.common",
+    "product": "家客",
+    "description": "家客保障底层公共包，存放公共类和xml文件",
+    "province": "河南移动",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.rofh/web/web.rms.address",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.rms.address",
+    "product": "家客资源",
+    "description": "标准地址存量功能",
+    "province": "陕西移动 湖北移动 内蒙移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rofh/web/web.huss.report.henan",
+    "giturl": "https://119.18.198.5:8443/irms.rofh/web/web.huss.report.henan",
+    "product": "家客保障",
+    "description": "家客保障河南报表服务",
+    "province": "河南移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/areares",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/areares",
+    "product": "资源平台",
+    "province": "西藏移动 海南移动 吉林移动 黑龙江移动 湖北移动 广西移动 广东移动 公共 ",
+    "status": "活跃",
+    "level": 1,
+    "description": "空间资源-服务"
+  },
+  {
+    "namespace": "irms.rms/server/rmsconf.fujian",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.fujian",
+    "product": "资源平台",
+    "description": "福建配置文件",
+    "province": "福建移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rmsconf.neimenggu",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.neimenggu",
+    "product": "资源平台",
+    "description": "内蒙古配置文件",
+    "province": "内蒙移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rmsconf.hainan",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.hainan",
+    "product": "资源平台",
+    "description": "海南配置文件",
+    "province": "海南移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rmsconf.shanxi",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.shanxi",
+    "product": "资源平台",
+    "description": "陕西配置文件",
+    "province": "陕西移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rmsconf.jilin",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.jilin",
+    "product": "资源平台",
+    "description": "吉林配置文件",
+    "province": "吉林移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rmsconf.heilongjiang",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.heilongjiang",
+    "product": "资源平台",
+    "description": "黑龙江配置文件",
+    "province": "黑龙江移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rmsconf.guangdong",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.guangdong",
+    "product": "资源平台",
+    "description": "广东配置文件",
+    "province": "广东移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rmsconf.guangxi",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.guangxi",
+    "product": "资源平台",
+    "description": "广西配置文件",
+    "province": "广西移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rms.shanxi",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.shanxi",
+    "product": "资源平台",
+    "description": "陕西省个性化framework包",
+    "province": "陕西移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rms.heilongjiang",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.heilongjiang",
+    "product": "资源平台",
+    "description": "黑龙江省个性化framework包",
+    "province": "黑龙江移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rms.hubei",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.hubei",
+    "product": "资源平台",
+    "description": "湖北省个性化framework包",
+    "province": "湖北移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rms.guangxi",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.guangxi",
+    "product": "资源平台",
+    "description": "广西省个性化framework包",
+    "province": "广西移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rms.guangdong",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.guangdong",
+    "product": "资源平台",
+    "description": "广东省个性化framework包",
+    "province": "广东移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rms.fujian",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.fujian",
+    "product": "资源平台",
+    "description": "福建省个性化framework包",
+    "province": "福建移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rms.hainan",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.hainan",
+    "product": "资源平台",
+    "description": "海南省个性化framework包",
+    "province": "海南移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rms.neimenggu",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.neimenggu",
+    "product": "资源平台",
+    "description": "内蒙古省个性化framework包",
+    "province": "内蒙移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rms.jilin",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rms.jilin",
+    "product": "资源平台",
+    "description": "吉林省个性化framework包",
+    "province": "吉林移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/web/weblocation",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/weblocation",
+    "product": "资源平台",
+    "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
+    "status": "活跃",
+    "level": 0,
+    "description": "空间资源-web"
+  },
+  {
+    "namespace": "irms.rms/web/webaddress",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webaddress",
+    "product": "资源平台",
+    "description": "标准地址模块",
+    "province": "广西移动",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/web/webreport",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webreport",
+    "product": "资源平台",
+    "description": "",
+    "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.rms/web/websearch",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/websearch",
+    "product": "资源平台",
+    "description": "",
+    "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.rms/web/cas",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/cas",
+    "product": "资源平台",
+    "description": "cas模块",
+    "province": "广东移动 广西移动 湖北移动 黑龙江移动 吉林移动 海南移动 西藏移动 公共 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.sf/server/server.sf.interface",
+    "giturl": "https://119.18.198.5:8443/irms.sf/server/server.sf.interface",
+    "product": "集客开通",
+    "description": "接口分离服务器",
+    "province": "湖北移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.rms/server/rmsconf.hubei",
+    "giturl": "https://119.18.198.5:8443/irms.rms/server/rmsconf.hubei",
+    "product": "资源平台",
+    "description": "湖北配置文件",
+    "province": "湖北移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "rmc/cmp/irms.platform.ucmp",
+    "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.ucmp",
+    "product": "核心CMP",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.sf/web/irms.sf.centerdispatch",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/irms.sf.centerdispatch",
+    "product": "集客开通",
+    "description": "广西集中调度项目",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "rmc/cmp/irms.platform.flowinterface",
+    "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.flowinterface",
+    "product": "核心CMP",
+    "description": "流程对外接口项目",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.sf/server/irms.service.sf.resmanage",
+    "giturl": "https://119.18.198.5:8443/irms.sf/server/irms.service.sf.resmanage",
+    "product": "集客开通",
+    "description": "广西pon快开接口项目",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.sfliferms.hubei",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.sfliferms.hubei",
+    "product": "集客开通",
+    "description": "湖北版本集客全生命周期APP侧",
+    "province": "湖北移动",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.sflifemanage.hubei",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.sflifemanage.hubei",
+    "product": "集客开通",
+    "description": "湖北全生命周期",
+    "province": "湖北移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.liferms",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.liferms",
+    "product": "集客开通",
+    "description": "河南全生命周期",
+    "province": "河南移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.lifemanage",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.lifemanage",
+    "product": "集客开通",
+    "description": "河南版本集客全生命周期web侧",
+    "province": "河南移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "rmc/cmp/irms.platform.frame",
+    "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.frame",
+    "product": "核心CMP",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "rmc/cmp/irms.platform.flow",
+    "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.flow",
+    "product": "核心CMP",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "rmc/cmp/irms.platform.core",
+    "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.core",
+    "product": "核心CMP",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "rmc/cmp/irms.platform.cmp",
+    "giturl": "https://119.18.198.5:8443/rmc/cmp/irms.platform.cmp",
+    "product": "核心CMP",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "rmc/drm/apigateway",
+    "giturl": "https://119.18.198.5:8443/rmc/drm/apigateway",
+    "product": "核心DRM",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.sfliferms",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.sfliferms",
+    "product": "集客开通",
+    "description": "全国版本集客全生命周期系统app侧",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.sflifemanage",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.sflifemanage",
+    "product": "集客开通",
+    "description": "全国版本集客全生命周期系统web侧",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.sf/web/web.trans.shanghai",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.trans.shanghai",
+    "product": "集客开通",
+    "description": "上海传输网管",
+    "province": "上海移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.cmcc",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.cmcc",
+    "product": "集客开通",
+    "description": "集团传输调度",
+    "province": "移动集团 ",
+    "status": "活跃",
+    "level": 2
+  },
+  {
+    "namespace": "irms.rms/web/websysmanage",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/websysmanage",
+    "product": "资源平台",
+    "description": "权限管理模块",
+    "province": "河南移动 西藏移动 吉林移动 黑龙江移动 广西移动 湖北移动 广东移动 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.sf/web/web.trans.ras",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.trans.ras",
+    "product": "集客开通",
+    "description": "新传输电路调度",
+    "province": "海南移动 陕西移动 湖北移动 河南移动 黑龙江移动 吉林移动 广西移动 内蒙移动 ",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.rms/web/webportal",
+    "giturl": "https://119.18.198.5:8443/irms.rms/web/webportal",
+    "product": "资源平台",
+    "description": "新综资webportal",
+    "province": "西藏移动 黑龙江移动 河南移动 吉林移动 湖北移动 广西移动 广东移动 ",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.neimeng",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.neimeng",
+    "product": "集客开通",
+    "description": "内蒙古集客开通",
+    "province": "内蒙移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.hainan",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.hainan",
+    "product": "集客开通",
+    "description": "海南集客开通",
+    "province": "海南移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.province",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.province",
+    "product": "集客开通",
+    "description": "跨省通用版本",
+    "province": "吉林移动 黑龙江移动 陕西移动 ",
+    "status": "活跃",
+    "level": 2
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.jituan",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.jituan",
+    "product": "集客开通",
+    "description": "跨省调度集团侧",
+    "province": "移动集团 ",
+    "status": "活跃",
+    "level": 2
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.hubei",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.hubei",
+    "product": "集客开通",
+    "description": "湖北集客开通",
+    "province": "湖北移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.shanxi",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.shanxi",
+    "product": "集客开通",
+    "description": "陕西集客开通",
+    "province": "陕西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.guangxi",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.guangxi",
+    "product": "集客开通",
+    "description": "广西集客开通",
+    "province": "广西移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.jilin",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.jilin",
+    "product": "集客开通",
+    "description": "吉林集客开通",
+    "province": "吉林移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.common",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.common",
+    "product": "集客开通",
+    "description": "公共集客开通",
+    "province": "广西移动 湖北移动 黑龙江移动 福建移动 吉林移动 内蒙移动 陕西移动 海南移动 西藏移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.fujian",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.fujian",
+    "product": "集客开通",
+    "description": "福建集客开通",
+    "province": "福建移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "rmc/drm/irms.product.rmc",
+    "giturl": "https://119.18.198.5:8443/rmc/drm/irms.product.rmc",
+    "product": "核心DRM",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "irms.sf/web/web.sf.hlj",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.sf.hlj",
+    "product": "集客开通",
+    "description": "黑龙江集客开通",
+    "province": "黑龙江移动 ",
+    "status": "活跃",
+    "level": 0
+  },
+  {
+    "namespace": "irms.sf/web/web.ras",
+    "giturl": "https://119.18.198.5:8443/irms.sf/web/web.ras",
+    "product": "集客开通",
+    "description": "全国版本传输电路调度",
+    "province": "陕西移动 内蒙移动 吉林移动 黑龙江移动 湖北移动 广西移动",
+    "status": "活跃",
+    "level": 1
+  },
+  {
+    "namespace": "irms.common/gis",
+    "giturl": "https://119.18.198.5:8443/irms.common/gis",
+    "product": "通用GIS平台",
+    "description": "通用GIS平台",
+    "province": "内蒙移动 黑龙江移动 广西移动 河南移动 陕西移动 福建移动 湖北移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "irms.common/topo",
+    "giturl": "https://119.18.198.5:8443/irms.common/topo",
+    "product": "通用拓扑平台",
+    "description": "通用拓扑平台",
+    "province": "广东移动 湖北移动 黑龙江移动 福建移动 吉林移动 内蒙移动 陕西移动 海南移动 西藏移动 青海移动 广西移动 ",
+    "status": "活跃",
+    "level": 3
+  },
+  {
+    "namespace": "rmc/drm/irms.platform.drm.rmc",
+    "giturl": "https://119.18.198.5:8443/rmc/drm/irms.platform.drm.rmc",
+    "product": "核心DRM",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "rmc/drm/irms.platform.drm",
+    "giturl": "https://119.18.198.5:8443/rmc/drm/irms.platform.drm",
+    "product": "核心DRM",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "rmc/drm/irms.platform.drm.cache",
+    "giturl": "https://119.18.198.5:8443/rmc/drm/irms.platform.drm.cache",
+    "product": "核心DRM",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  },
+  {
+    "namespace": "rmc/drm/irms.platform.drm.core",
+    "giturl": "https://119.18.198.5:8443/rmc/drm/irms.platform.drm.core",
+    "product": "核心DRM",
+    "description": "",
+    "province": "",
+    "status": "稳定",
+    "level": 100
+  }
 ]
